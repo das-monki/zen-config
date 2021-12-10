@@ -25,4 +25,8 @@ combos {
   COMBO(col, &kp COLON, 19 29, BASE)
   COMBO(minus, &kp MINUS, 8 18, BASE)
   COMBO(underscore, &kp UNDER, 18 28, BASE)
+  COMBO(capswordlhs, &caps_word, 13 23, BASE)
+  COMBO(capswordrhs, &caps_word, 16 26, BASE)
+  COMBO(shiftlhs, &sk LSHIFT, 3 13, BASE)
+  COMBO(shiftrhs, &caps_word, 6 16, BASE)
 };
