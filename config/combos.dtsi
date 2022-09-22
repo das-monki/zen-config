@@ -21,6 +21,8 @@ combos {
   COMBO(readline1, &mo RDL, 16 38, BASE)
   COMBO(readline2, &mo RDL, 37 38, BASE)
 
+  COMBO(space, &kp SPACE, 17 18, BASE)
+  COMBO(tab, &kp TAB, 11 12, BASE)
   COMBO(semicol, &kp SEMI, 9 19, BASE)
   COMBO(col, &kp COLON, 19 29, BASE)
   COMBO(minus, &kp MINUS, 8 18, BASE)
